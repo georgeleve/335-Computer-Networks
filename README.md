@@ -1,4 +1,4 @@
-# 335-Computer-Networks
+# Computer-Networks
 
 I do not own the whole project. Find the real project here: https://github.com/surligas/microTCP
 
